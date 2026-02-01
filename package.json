@@ -1,0 +1,20 @@
+{
+  "name": "kimi-opencode-writer",
+  "version": "1.0.0",
+  "description": "This repository contains a specialized configuration for [OpenCode](https://opencode.ai) designed to turn the Kimi 2.5 model (or other long-context LLMs) into a **\"Novel Architect\"**—a collaborative agent for planning, outlining, and drafting books.",
+  "homepage": "https://github.com/dlukt/kimi-opencode-writer#readme",
+  "bugs": {
+    "url": "https://github.com/dlukt/kimi-opencode-writer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlukt/kimi-opencode-writer.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
